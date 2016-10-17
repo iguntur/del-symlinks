@@ -1,0 +1,44 @@
+{
+  "name": "del-symlinks",
+  "version": "0.0.0",
+  "description": "Delete symlinks using glob",
+  "license": "MIT",
+  "repository": "iguntur/del-symlinks",
+  "author": {
+    "name": "Guntur",
+    "email": "poetra.guntur@gmail.com",
+    "url": "guntur.starmediateknik.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "del",
+    "delete",
+    "find",
+    "remove",
+    "search",
+    "symlink",
+    "only",
+    "path",
+    "unlink",
+    "utility"
+  ],
+  "dependencies": {
+    "get-symlinks": "^1.0.0",
+    "object-assign": "^4.1.0",
+    "pify": "^2.3.0",
+    "pinkie-promise": "^2.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "fs-extra": "^0.30.0",
+    "path-exists": "^2.0.0",
+    "tempfile": "^1.1.1",
+    "xo": "^0.16.0"
+  }
+}
