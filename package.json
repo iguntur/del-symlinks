@@ -1,6 +1,6 @@
 {
   "name": "del-symlinks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Delete symlinks using glob",
   "license": "MIT",
   "repository": "iguntur/del-symlinks",
