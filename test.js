@@ -17,7 +17,7 @@ function notExist(t, symlinks) {
 }
 
 function expected(t, files) {
-	return [].concat(files).map(fl => p.join(t.context.symlinks, fl));
+	[].concat(files).map(fl => p.join(t.context.symlinks, fl));
 }
 
 test.beforeEach(t => {
