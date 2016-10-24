@@ -56,12 +56,12 @@ Returns an array of deleted symlinks paths.
 
 	See the `node-glob` [options](https://github.com/isaacs/node-glob#options).
 
-	**dryRun**
+	**&middot; dryRun**
 
 	Type: `boolean`<br>
 	Default: `false`
 
-	See symlinks what would be deleted
+	See symlinks what would be deleted instead deleting
 	```js
 	delSymlinks(['/home/guntur/*', '/home/guntur/.*'], { dryRun: true }).then(symlinks => {
 		console.log('Symlinks that would be deleted:\n', symlinks.join('\n'));
