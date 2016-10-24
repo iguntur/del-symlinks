@@ -1,4 +1,4 @@
-# del-symlinks [![Build Status](https://travis-ci.org/iguntur/del-symlinks.svg?branch=master)](https://travis-ci.org/iguntur/del-symlinks) [![npm](https://img.shields.io/npm/v/del-symlinks.svg?style=flat-square)](https://npmjs.com/package/del-symlinks) [![npm](https://img.shields.io/npm/l/del-symlinks.svg?style=flat-square)](#)
+# del-symlinks [![Build Status](https://travis-ci.org/iguntur/del-symlinks.svg?branch=master)](https://travis-ci.org/iguntur/del-symlinks) [![npm](https://img.shields.io/npm/v/del-symlinks.svg?style=flat-square)](https://npmjs.com/package/del-symlinks)
 
 > Delete symlinks using [glob](https://github.com/isaacs/minimatch#usage).
 
