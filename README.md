@@ -69,6 +69,12 @@ Returns an array of deleted symlinks paths.
 	```
 
 
+## Related
+
+- [get-symlinks](https://github.com/iguntur/get-symlinks) - Get all symbolic link in directory
+- [is-symbolic-link](https://github.com/iguntur/is-symbolic-link) - Check if PATH is symbolic link
+
+
 ## License
 
 MIT © [Guntur Poetra](http://guntur.starmediateknik.com)
