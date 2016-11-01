@@ -61,7 +61,7 @@ Returns an array of deleted symlinks paths.
 	Type: `boolean`<br>
 	Default: `false`
 
-	See symlinks what would be deleted instead deleting
+	See symlinks what would be deleted instead of deleting
 	```js
 	delSymlinks(['/home/guntur/*', '/home/guntur/.*'], { dryRun: true }).then(symlinks => {
 		console.log('Symlinks that would be deleted:\n', symlinks.join('\n'));
