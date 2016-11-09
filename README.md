@@ -5,7 +5,7 @@
 
 ## Install
 
-```
+``` bash
 $ npm install --save del-symlinks
 ```
 
