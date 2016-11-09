@@ -71,6 +71,7 @@ Returns an array of deleted symlinks paths.
 
 ## Related
 
+- [del-symlinks-cli](https://github.com/iguntur/del-symlinks-cli) - Delete symbolic link (symlinks) CLI
 - [get-symlinks](https://github.com/iguntur/get-symlinks) - Get all symbolic link in directory
 - [is-symbolic-link](https://github.com/iguntur/is-symbolic-link) - Check if PATH is symbolic link
 
